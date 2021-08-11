@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/himanigulati01/my-portfolio/tree/master/src/static/js/main.63b90eca.chunk.js",
-    "main.js.map": "/himanigulati01/my-portfolio/tree/master/src/static/js/main.63b90eca.chunk.js.map",
-    "runtime-main.js": "/himanigulati01/my-portfolio/tree/master/src/static/js/runtime-main.70046142.js",
-    "runtime-main.js.map": "/himanigulati01/my-portfolio/tree/master/src/static/js/runtime-main.70046142.js.map",
-    "static/js/2.7a70cb50.chunk.js": "/himanigulati01/my-portfolio/tree/master/src/static/js/2.7a70cb50.chunk.js",
-    "static/js/2.7a70cb50.chunk.js.map": "/himanigulati01/my-portfolio/tree/master/src/static/js/2.7a70cb50.chunk.js.map",
-    "index.html": "/himanigulati01/my-portfolio/tree/master/src/index.html",
-    "static/js/2.7a70cb50.chunk.js.LICENSE.txt": "/himanigulati01/my-portfolio/tree/master/src/static/js/2.7a70cb50.chunk.js.LICENSE.txt",
-    "static/media/CV.bebe4993.pdf": "/himanigulati01/my-portfolio/tree/master/src/static/media/CV.bebe4993.pdf",
-    "static/media/avatar.70e12912.jpg": "/himanigulati01/my-portfolio/tree/master/src/static/media/avatar.70e12912.jpg",
-    "static/media/burgerBuilder.2f84c362.png": "/himanigulati01/my-portfolio/tree/master/src/static/media/burgerBuilder.2f84c362.png",
-    "static/media/drumkit.29379354.png": "/himanigulati01/my-portfolio/tree/master/src/static/media/drumkit.29379354.png",
-    "static/media/expense-manager.da7abc3c.png": "/himanigulati01/my-portfolio/tree/master/src/static/media/expense-manager.da7abc3c.png",
-    "static/media/resume.4bd8b7f3.jpg": "/himanigulati01/my-portfolio/tree/master/src/static/media/resume.4bd8b7f3.jpg",
-    "static/media/weatherapp.7650a454.png": "/himanigulati01/my-portfolio/tree/master/src/static/media/weatherapp.7650a454.png",
-    "static/media/whatsappclone.783152fa.png": "/himanigulati01/my-portfolio/tree/master/src/static/media/whatsappclone.783152fa.png"
+    "main.js": "/my-portfolio/static/js/main.63b90eca.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.63b90eca.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.58c032c3.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.58c032c3.js.map",
+    "static/js/2.0707e027.chunk.js": "/my-portfolio/static/js/2.0707e027.chunk.js",
+    "static/js/2.0707e027.chunk.js.map": "/my-portfolio/static/js/2.0707e027.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/js/2.0707e027.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.0707e027.chunk.js.LICENSE.txt",
+    "static/media/CV.bebe4993.pdf": "/my-portfolio/static/media/CV.bebe4993.pdf",
+    "static/media/avatar.70e12912.jpg": "/my-portfolio/static/media/avatar.70e12912.jpg",
+    "static/media/burgerBuilder.2f84c362.png": "/my-portfolio/static/media/burgerBuilder.2f84c362.png",
+    "static/media/drumkit.29379354.png": "/my-portfolio/static/media/drumkit.29379354.png",
+    "static/media/expense-manager.da7abc3c.png": "/my-portfolio/static/media/expense-manager.da7abc3c.png",
+    "static/media/resume.4bd8b7f3.jpg": "/my-portfolio/static/media/resume.4bd8b7f3.jpg",
+    "static/media/weatherapp.7650a454.png": "/my-portfolio/static/media/weatherapp.7650a454.png",
+    "static/media/whatsappclone.783152fa.png": "/my-portfolio/static/media/whatsappclone.783152fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.70046142.js",
-    "static/js/2.7a70cb50.chunk.js",
+    "static/js/runtime-main.58c032c3.js",
+    "static/js/2.0707e027.chunk.js",
     "static/js/main.63b90eca.chunk.js"
   ]
 }
